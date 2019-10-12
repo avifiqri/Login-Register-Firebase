@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "459276369349",
+    "firebase_url": "https://sistemlogin-7d69c.firebaseio.com",
+    "project_id": "sistemlogin-7d69c",
+    "storage_bucket": "sistemlogin-7d69c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459276369349:android:f6e3a15d8914d3a6dc5fac",
+        "android_client_info": {
+          "package_name": "com.example.sistemlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459276369349-cfninmu5oa43e0p4vl0gf5f6mg759qk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sistemlogin",
+            "certificate_hash": "d344a91ce0b01da71105106d0e59c9aff1302b16"
+          }
+        },
+        {
+          "client_id": "459276369349-ge3om42aej8rhgruhigiq5912rjiabno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaDq3q41AKylVmGEDyH0ltF-yQStRxbsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459276369349-ge3om42aej8rhgruhigiq5912rjiabno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

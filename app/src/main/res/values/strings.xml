@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sistem Login</string>
+    <string name="register_account">Register Account</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="masukan_email">masukan email</string>
+    <string name="masukan_password">masukan password</string>
+</resources>
